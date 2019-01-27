@@ -1,0 +1,16 @@
+{
+  "name": "awsiotsdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subscribe.js",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "sleep": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
